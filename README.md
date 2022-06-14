@@ -1,0 +1,2 @@
+# Cineplex-Management-
+This system was created with object oriented programming. This is a very friendly system for cineplex users. Here, we use 4 classes and several functions. We also use file for parmanently store the value. There was option to log in and sign up for the staff and manager. The staffs will be able to input hall information and visitors information. We use switch case statement. This system will strengthen the security of the cineplex. 
